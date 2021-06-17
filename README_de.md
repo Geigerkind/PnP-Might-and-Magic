@@ -12,7 +12,7 @@ Ausrüstung und bestehende Charaktere, sowie ein Template zur Charaktererstellun
 * [Character-Erstellung](character_creation/de.md)
 * [Würfelsystem](dice_system/de.md)
 * [Magiesystem](magic_system/de.md)
-* Kampfsystem
+* [Kampfsystem](combat_system/de.md)
 * Rassen
     * Mensch
     * Elf

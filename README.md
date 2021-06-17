@@ -12,7 +12,7 @@ character-sheets and resources such as the character template.
 * [Character creation](character_creation/en.md)
 * [Dice system](dice_system/en.md)
 * [Magic system](magic_system/en.md)
-* Combat rules
+* [Combat rules](combat_system/en.md)
 * Races
     * Human
     * Elf
