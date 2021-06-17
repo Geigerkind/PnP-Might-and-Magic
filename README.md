@@ -1,31 +1,31 @@
 # Pen & Paper - Might and Magic
 [\[Deutsch\]](README_de.md)
 
-Pen & Paper - Might and Magic ist ein Regelwerk für Abenteuer, die auf Magie basieren.
-Es basiert auf dem ["How to be a hero"](https://howtobeahero.de/index.php?title=Hauptseite) -Regelwerk, 
-wurde aber stark vereinfacht und modifiziert, um Systeme für Magie, Level und Ausrüstung hinzuzufügen.
+Pen & Paper - Might and Magic is a set of rules for magic based role-play adventures. 
+It is based on the set of rules of ["How to be a hero"](https://howtobeahero.de/index.php?title=Hauptseite), 
+but heavily simplified and modified in order to include systems for magic, level and armor.
 
-Zusätzlich wird die Hintergrundgeschichte des "Might and Magic"-Universums, definierte Fähigkeiten, Zauber, 
-Ausrüstung und bestehende Charaktere, sowie ein Template zur Charaktererstellung angeboten.
+Additionally, it provides lore for the "Might and Magic"-Universe, as well as pre-defined skills, spells, armor, 
+character-sheets and resources such as the character template.
 
-## Gliederung
-* [Charactererstellung](character_creation/de.md)
-* Würfelsystem
-* Magiesystem
-* Kampfsystem
-* Rassen
-    * Mensch
+## Table of Contents
+* [Character creation](character_creation/en.md)
+* Dice system
+* Magic system
+* Combat rules
+* Races
+    * Human
     * Elf
     * Pixie
-    * Dämon
-    * Drache
-    * Meerjung-Mensch
-    * Ork
-* Sonstiges
-    * Sprachen
-    * Level-System
-    * Ausrüstungssystem
-    * Inventar
+    * Demon
+    * Dragon
+    * Mermaid
+    * Orc
+* Miscellaneous
+    * Languages
+    * Level system
+    * Armor system
+    * Inventory 
 
-## Beiträge zum Repository
-Alle Beiträge sind unter der Lizenz AGPL-3.0 lizenziert, solange der Autor dies nicht explizit ausschließt.
+## Contributions
+All contributions are being licenced under AGPL-3.0, if not otherwise stated.
