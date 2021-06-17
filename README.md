@@ -13,14 +13,14 @@ character-sheets and resources such as the character template.
 * [Dice system](dice_system/en.md)
 * [Magic system](magic_system/en.md)
 * [Combat rules](combat_system/en.md)
-* Races
-    * Human
-    * Elf
-    * Pixie
-    * Demon
-    * Dragon
-    * Mermaid
-    * Orc
+* [Races](races/en.md)
+    * [Human](races/human/en.md)
+    * [Elf](races/elf/en.md)
+    * [Pixie](races/pixie/en.md)
+    * [Demon](races/demon/en.md)
+    * [Dragon](races/dragon/en.md)
+    * [Mermaid](races/mermaid/en.md)
+    * [Orc](races/orc/en.md)
 * Miscellaneous
     * Languages
     * Level system

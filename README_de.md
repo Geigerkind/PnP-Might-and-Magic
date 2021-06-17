@@ -13,14 +13,14 @@ Ausrüstung und bestehende Charaktere, sowie ein Template zur Charaktererstellun
 * [Würfelsystem](dice_system/de.md)
 * [Magiesystem](magic_system/de.md)
 * [Kampfsystem](combat_system/de.md)
-* Rassen
-    * Mensch
-    * Elf
-    * Pixie
-    * Dämon
-    * Drache
-    * Meerjung-Mensch
-    * Ork
+* [Rassen](races/de.md)
+    * [Mensch](races/human/de.md)
+    * [Elf](races/elf/de.md)
+    * [Pixie](races/pixie/de.md)
+    * [Dämon](races/demon/de.md)
+    * [Drache](races/dragon/de.md)
+    * [Meerjung-Mensch](races/mermaid/de.md)
+    * [Ork](races/orc/de.md)
 * Sonstiges
     * Sprachen
     * Level-System
