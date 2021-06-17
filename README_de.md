@@ -9,9 +9,9 @@ Zusätzlich wird die Hintergrundgeschichte des "Might and Magic"-Universums, def
 Ausrüstung und bestehende Charaktere, sowie ein Template zur Charaktererstellung angeboten.
 
 ## Gliederung
-* [Charactererstellung](character_creation/de.md)
+* [Character-Erstellung](character_creation/de.md)
 * [Würfelsystem](dice_system/de.md)
-* Magiesystem
+* [Magiesystem](magic_system/de.md)
 * Kampfsystem
 * Rassen
     * Mensch

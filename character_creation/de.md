@@ -1,4 +1,4 @@
-# Charaktererstellung
+# Charakter-Erstellung
 Der Spieler spielt einen Charakter in der fiktiven Welt. Dieser Charakter darf, wie in jedem anderen Fantasy-Spiel, 
 durchaus komplett anders von der Natur sein, wie der Spieler ist. 
 
