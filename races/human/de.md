@@ -5,7 +5,7 @@ Durch ihr Erfinderreichtum und ihre Ausdauer haben die Menschen ihren Platz in d
 
 ## Vorteile
 Die sekundären Magie-Attribute kosten einen Magiepunkt weniger, 
-d. h. das zweie Magie-Attribut kostet nur 1 Magiepunkt, das dritte 2 usw.
+d. h. das zweite Magie-Attribut kostet nur 1 Magiepunkt, das dritte 2 usw.
 
 ## Affinitäten
 | Natur | Feuer | Wasser | Arkan | Schatten | Physisch |
