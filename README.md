@@ -5,8 +5,8 @@ Pen & Paper - Might and Magic is a set of rules for magic based role-play advent
 It is based on the set of rules of ["How to be a hero"](https://howtobeahero.de/index.php?title=Hauptseite), 
 but heavily simplified and modified in order to include systems for magic, level and armor.
 
-Additionally, it provides lore for the "Might and Magic"-Universe, as well as pre-defined skills, spells, armor, 
-character-sheets and resources such as the character template.
+[Additionally, it provides lore for the "Might and Magic"-Universe, as well as pre-defined skills, spells, armor, 
+character-sheets and resources such as the character template.](https://docs.google.com/spreadsheets/d/1vlGbauQldnZ9hNkznQclgl-a3T1Ws5faECuhnaYWpCw/edit#gid=0)
 
 ## Table of Contents
 * [Character creation](character_creation/en.md)
@@ -21,11 +21,11 @@ character-sheets and resources such as the character template.
     * [Dragon](races/dragon/en.md)
     * [Mermaid](races/mermaid/en.md)
     * [Orc](races/orc/en.md)
-* Miscellaneous
-    * Languages
-    * Level system
-    * Armor system
-    * Inventory 
+* [Miscellaneous](misc/en.md)
+    * [Languages](misc/languages/en.md)
+    * [Level system](misc/level_system/en.md)
+    * [Armor system](misc/armor/en.md)
+    * [Inventory](misc/inventory/en.md) 
 
 ## Contributions
 All contributions are being licenced under AGPL-3.0, if not otherwise stated.
