@@ -10,7 +10,7 @@ Ausrüstung und bestehende Charaktere, sowie ein Template zur Charaktererstellun
 
 ## Gliederung
 * [Charactererstellung](character_creation/de.md)
-* Würfelsystem
+* [Würfelsystem](dice_system/de.md)
 * Magiesystem
 * Kampfsystem
 * Rassen

@@ -10,7 +10,7 @@ character-sheets and resources such as the character template.
 
 ## Table of Contents
 * [Character creation](character_creation/en.md)
-* Dice system
+* [Dice system](dice_system/en.md)
 * Magic system
 * Combat rules
 * Races
