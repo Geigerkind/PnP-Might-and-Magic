@@ -7,7 +7,7 @@ Additionally, it provides lore for the "Might and Magic"-Universe, as well as pr
 character-sheets and resources such as the character template.
 
 ## Table of Contents
-* Character creation
+* [Character creation](character_creation.md)
 * Dice system
 * Magic system
 * Combat rules
