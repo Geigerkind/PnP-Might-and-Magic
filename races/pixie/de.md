@@ -10,7 +10,7 @@ Pixies können den Mana-Pool und die hälfte eines Magie-Attributs ihrer Partner
 Siehe Zauber "Pixie-Symbiose".
 
 ## Nachteile 
-* Resistenz gegenüber physische Angriffe extrem verringert (-100).
+* Resistenz gegenüber physische Angriffe extrem verringert (siehe Affinitäten).
 * Potenz physischer Angriffe (gegen andere Rassen) extrem verringert (25% vom Ursprünglichen).
 * 75% Lebenspunkte.
 * 50% Mana.
